@@ -1,0 +1,176 @@
+.logo{
+    height: 50px;
+    width: 50px;
+}
+.BarNav{
+   
+    
+    border:1px solid black;
+    position:relative;
+}
+.dropdown{
+    display: flex;
+    
+  
+      background-color: white;
+      width:100%;
+       display:none;
+       position:absolute;
+       left:0px;
+
+ 
+    
+}
+.wistia:hover .dropdown{
+    display: flex;
+    background-color: white;
+    width:100%;
+}
+.linkHover2:hover{
+    color:green;
+}
+.linkHover1:hover{
+    color:blue;
+    font-size: 30px;
+    font-style: italic;
+}
+.linkHover3:hover{
+    color:rgb(248, 75, 7);
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+    border:1px solid black;
+    width:500px;
+   
+    
+
+}
+li {
+
+    list-style-type: none;
+}
+.Textwistia{
+    width:200px;
+}
+.menuFlex{
+    display: flex;
+    justify-content: space-between;
+}
+/* .button{
+    range right: 10px;
+} */
+.menu1{
+    display: flex;
+    justify-content: space-between;
+}
+.coleur{
+    background-color:#ca95a4;
+    display: flex;
+    justify-content: space-around;
+}
+.TextVideo{
+    width:300px;
+}
+.coleurtitre{
+    text-decoration: none;
+    color:white;
+}
+.menuFlex2{
+    display: flex;
+    justify-content: space-between;
+}
+.buttonvideo{
+    width:200px;
+    height:70px;
+}
+.coleur1{
+    background-color:#fed24a;
+    padding: 50px;
+}
+ .coleur2{
+        background-color:#51c29f;
+        padding:50px;
+}
+.coleur3{
+    background-color:#3ea9f5;
+    padding:50px
+}
+.menuFlex3{
+    display:flex;
+    justify-content: space-around;
+}
+.logo1{
+    height: 100px;
+    width:100px;
+}
+.div{
+    width:150px;
+}
+.div1{
+    width: 400px;
+}
+.div2{
+    display:flex;
+    justify-content: center;
+}
+.logo2{
+    height:250px;
+    width:400px;
+}
+.menuFlex4{
+background-color:#EFEFEF
+
+}
+
+.menuFlex5{
+    display:flex;
+    justify-content: space-around;
+    background-color:#2a2d35;
+}
+.vert{
+    color: #4cc96b;
+    text-decoration: none;
+}
+.bleu{ 
+    color:#155fc6;
+}
+.gris{
+    color:#c2c7ce;
+}
+
+.rouge{
+    color:#f23747;
+}
+.button{
+    display:flex;
+    justify-content:space-between;
+    width: :100px;
+    height:50px;
+    text-align:right;
+}
+.button1{
+    width: 100px;
+   height: 40px;
+}
+.button2{
+    width: 100px;
+    height: 40px;
+   background-color:#3ea9f5;
+}
+.button3{
+    width: 150px;
+    height: 40px;
+    background-color:#3ea9f5;
+    display: flex;
+    justify-content: flex-end;
+    /* padding-left: ;
+    padding-right: ; */
+}
+.text{
+    font-size: 50px;
+    font-style:italic;
+}
+.notlink{
+    text-decoration:none;
+}
